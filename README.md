@@ -7,3 +7,8 @@
 + `crossover_probability`: 交叉概率
 + `mutate_probability`: 变异概率
 + `tournament_size`: 锦标赛选手数
+
+## Todo
+
++ 改进初始化方法
++ 根据轮次内的适应度数值，进行参数自适应调整
